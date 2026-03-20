@@ -1,0 +1,13 @@
+=== Keyword Search Results ===
+Keyword    : "file"
+Threads    : 3
+Files      : 3
+
+Thread  0 | File: file1.txt                      | Occurrences: 0
+Thread  2 | File: file3.txt                      | Occurrences: 1
+Thread  1 | File: file2.txt                      | Occurrences: 1
+
+-------------------------------
+Total occurrences : 2
+Elapsed time      : 1.304 ms
+-------------------------------
